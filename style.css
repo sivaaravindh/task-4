@@ -1,0 +1,34 @@
+form{
+	font-size:20px;
+	text-align:center;
+	font-weight:800;
+} 
+div{
+	width:1000px;
+	text-align:center;
+	background-color:white;
+	
+}
+body{
+	background-color:bisque;
+} 
+
+h2{
+	text-align:center;
+	font-size:35px;
+	color:orange;
+}
+h1{
+	color:orange;
+	font-size:30px;
+}
+button{
+	font-size:20px;
+	color:darkgreen;
+	background-color:;
+	width:200px
+}
+legend{
+	background-color:deepskyblue;
+}
+	
